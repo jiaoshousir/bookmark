@@ -143,9 +143,9 @@ var oData = [
         link: 'https://www.easy-mock.com/login'
       },
       {
-        name: 'Cmd Markdown 在线编辑器',
-        decription: 'Cmd Markdown 在线编辑器',
-        link: 'https://www.zybuluo.com/mdeditor'
+        name: 'Markdown 在线编辑器',
+        decription: 'Markdown 在线编辑器',
+        link: 'http://www.mdeditor.com/'
       },
       {
         name: 'JS代码自动命名反压缩',
