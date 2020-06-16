@@ -183,14 +183,29 @@ var oData = [
         link: 'https://caniuse.com/'
       },
       {
+        name: 'JS运行时可视化',
+        decription: 'JS运行时可视化',
+        link: 'http://pythontutor.com/visualize.html#mode=display'
+      },
+      {
         name: 'PXtoEM',
         decription: 'px转em计算网站',
         link: 'http://pxtoem.com/'
       },
       {
+        name: '蓝湖设计',
+        decription: '蓝湖设计',
+        link: 'https://lanhuapp.com/about'
+      },
+      {
         name: '网易开源镜像站',
         decription: '网易开源镜像站',
         link: 'http://mirrors.163.com/'
+      },
+      {
+        name: '阿里云官方镜像站',
+        decription: '阿里云官方镜像站',
+        link: 'https://developer.aliyun.com/mirror'
       },
       {
         name: 'UserAgentman',
@@ -616,6 +631,11 @@ var oData = [
         name: '阮一峰ES6',
         decription: '阮一峰ES6教程',
         link: 'http://es6.ruanyifeng.com/#docs/module'
+      },
+      {
+        name: '版本语义化',
+        decription: '版本语义化',
+        link: 'https://semver.org/lang/zh-CN/'
       },
       {
         name: 'webpack官方手册',
