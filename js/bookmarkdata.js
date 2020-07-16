@@ -246,6 +246,11 @@ var oData = [
         name: '百度站长平台 - SEO优化',
         decription: '百度站长平台 - SEO优化',
         link: 'https://ziyuan.baidu.com/?castk=LTE%3D'
+      },
+      {
+        name: '图灵机器人',
+        decription: '图灵机器人',
+        link: 'http://www.turingapi.com/'
       }
     ]
   },
@@ -800,7 +805,7 @@ var oData = [
       {
         name: 'SuperSlide - jQuery插件',
         decription: '',
-        link: 'http://down.admin5.com/demo/code_pop/18/562/'
+        link: 'http://www.superslide2.com/index.html'
       },
       {
         name: 'Browsersync - npm包',
@@ -842,6 +847,11 @@ var oData = [
   {
     title:'模板建站',
     data:[
+      {
+        name: '织梦猫',
+        decription: '织梦猫',
+        link: 'https://www.dedemao.com/'
+      },
       {
         name: '小兽WordPress',
         decription: '为企业而生的wordpress主题',
