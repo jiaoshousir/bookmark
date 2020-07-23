@@ -73,6 +73,11 @@ var oData = [
         link: 'https://github.com/'
       },
       {
+        name: 'Lodash',
+        decription: '一个一致性、模块化、高性能的 JavaScript 实用工具库。',
+        link: 'https://www.lodashjs.com/'
+      },
+      {
         name: '360前端静态资源库',
         decription: '360前端静态资源库',
         link: 'https://cdn.baomitu.com/'
@@ -851,6 +856,16 @@ var oData = [
         name: '织梦猫',
         decription: '织梦猫',
         link: 'https://www.dedemao.com/'
+      },
+      {
+        name: '织梦园',
+        decription: '织梦园',
+        link: 'http://www.dedeyuan.com/'
+      },
+      {
+        name: 'AB模板网',
+        decription: 'AB模板网',
+        link: 'http://www.adminbuy.cn/'
       },
       {
         name: '小兽WordPress',
