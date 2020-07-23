@@ -1,4 +1,6 @@
 $(function () {
+  // 加载条显示
+  NProgress.start();
   function createHtml(){
     var element = null;
     var sNav = '';
@@ -55,4 +57,9 @@ $(function () {
   }else{
     alert('没有数据！');
   }
+  // 页面加载完毕
+  $(window).load(function(){
+    // 隐藏进度条
+    NProgress.done();
+  });
 });

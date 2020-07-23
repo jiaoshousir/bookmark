@@ -788,6 +788,11 @@ var oData = [
         link: 'http://usablica.github.io/progress.js/'
       },
       {
+        name: 'NProgressjs进度条 - JavaScript库',
+        decription: '进度条插件',
+        link: 'https://github.com/rstacruz/nprogress'
+      },
+      {
         name: 'fullPage全屏单页滚动 - JavaScript库',
         decription: '全屏单页滚动网站',
         link: 'https://alvarotrigo.com/fullPage/'
