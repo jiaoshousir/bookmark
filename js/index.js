@@ -1,6 +1,4 @@
 $(function () {
-  // 加载条显示
-  NProgress.start();
   function createHtml(){
     var element = null;
     var sNav = '';
