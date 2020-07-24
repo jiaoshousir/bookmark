@@ -256,6 +256,16 @@ var oData = [
         name: '图灵机器人',
         decription: '图灵机器人',
         link: 'http://www.turingapi.com/'
+      },
+      {
+        name: 'Vue组件',
+        decription: 'Vue.js 相关的精选组件和实例网站',
+        link: 'https://vuejsexamples.com'
+      },
+      {
+        name: 'Vue-Layout',
+        decription: 'Vue可视化布局',
+        link: 'https://jaweii.github.io/Vue-Layout/dist/#/'
       }
     ]
   },
@@ -851,12 +861,142 @@ var oData = [
         name: 'loading.css - CSS3动画库',
         decription: 'loading CSS3动画效果库',
         link: 'https://loading.io/css/'
+      },
+      {
+        name: 'Sketch.js',
+        decription: '矢量图绘制应用、动画回放效果库',
+        link: 'https://github.com/soulwire/sketch.js/'
+      },
+      {
+        name: 'Aplayer',
+        decription: '一个功能强大的HTML5音乐播放器',
+        link: 'https://aplayer.js.org/#/'
+      },
+      {
+        name: 'Metingjs',
+        decription: '基于Aplayer插件封装好的插件，开箱即用',
+        link: 'https://github.com/metowolf/MetingJS'
+      },
+      {
+        name: 'Metingjs',
+        decription: '基于Aplayer插件封装好的插件，开箱即用',
+        link: 'https://github.com/metowolf/MetingJS'
+      },
+      {
+        name: 'kbone',
+        decription: 'kbone 是一个致力于微信小程序和 Web 端同构的解决方案。',
+        link: 'https://developers.weixin.qq.com/miniprogram/dev/extended/kbone/'
+      },
+      {
+        name: 'uniapp',
+        decription: '一个使用 Vue.js 开发所有前端应用的框架，开发者编写一套代码，可发布到iOS、Android、H5、以及各种小程序（微信/支付宝/百度/头条/QQ/钉钉/淘宝）、快应用等多个平台。',
+        link: 'https://uniapp.dcloud.io/'
+      },
+      {
+        name: 'mpvue',
+        decription: '一个使用 Vue.js 开发小程序的前端框架',
+        link: 'http://mpvue.com/'
       }
     ]
   },
   {
     title:'模板建站',
     data:[
+      {
+        name: '微擎小程序',
+        decription: '微擎小程序',
+        link: 'https://www.w7.cc/'
+      },
+      {
+        name: '极速应用小程序',
+        decription: '极速应用小程序',
+        link: 'http://www.jisuapp.cn/make/'
+      },
+      {
+        name: '凡客互动模板',
+        decription: '凡客互动模板',
+        link: 'https://hd.fkw.com/'
+      },
+      {
+        name: 'FastAdmin 极速后台开发框架',
+        decription: 'FastAdmin 极速后台开发框架',
+        link: 'https://www.fastadmin.net/'
+      },
+      {
+        name: '萤火小程序电商系统',
+        decription: '萤火小程序电商系统',
+        link: 'https://www.yiovo.com/'
+      },
+      {
+        name: 'shopxo B2C开源电商系统',
+        decription: 'shopxo B2C开源电商系统',
+        link: 'https://www.shopxo.net/'
+      },
+      {
+        name: 'Jshop 商城',
+        decription: 'Jshop 商城',
+        link: 'https://gitee.com/hnjihai/jshop_mall'
+      },
+      {
+        name: '百度H5',
+        decription: '百度H5',
+        link: 'https://h5.bce.baidu.com/'
+      },
+      {
+        name: '易企秀 H5互动',
+        decription: '易企秀 H5互动',
+        link: 'https://www.eqxiu.com/'
+      },
+      {
+        name: 'MAKA H5互动',
+        decription: 'MAKA H5互动',
+        link: 'http://maka.im/'
+      },
+      {
+        name: '人人秀 H5互动',
+        decription: '人人秀 H5互动',
+        link: 'https://rrx.cn/'
+      },
+      {
+        name: '鲁班H5',
+        decription: '前后端均开源的H5制作平台',
+        link: 'https://ly525.github.io/luban-h5/zh/'
+      },
+      {
+        name: '码良',
+        decription: '快速制作H5页面',
+        link: 'https://godspen.ymm56.com/'
+      },
+      {
+        name: 'Vue网页设计器',
+        decription: '基于Vue的拖放式移动网站构建器。',
+        link: 'https://github.com/fireyy/vue-page-designer'
+      },
+      {
+        name: 'Vue可视化页面编辑器',
+        decription: '页面可视化搭建框架的web编辑器',
+        link: 'https://github.com/page-pipepline/pipeline-editor'
+      },
+      {
+        name: 'esaymarket可视化工具',
+        decription: '基于Vue开发，通过拖拽的形式，生成移动页面，app,小程序。',
+        link: 'https://github.com/fodelf/esaymarket'
+      },
+      {
+        name: 'Element UI',
+        decription: 'Element UI表单设计及代码生成器',
+        link: 'https://github.com/JakHuang/form-generator'
+      },
+      {
+        name: 'amis',
+        decription: '前端低代码框架，通过 JSON 配置就能生成各种后台页面，极大减少开发成本，甚至可以不需要了解前端。',
+        link: 'https://github.com/baidu/amis'
+      },
+      {
+        name: 'craft.js',
+        decription: '一个用于构建可扩展的拖放页面编辑器的React框架',
+        link: 'https://github.com/prevwong/craft.js'
+      },
       {
         name: '织梦猫',
         decription: '织梦猫',
