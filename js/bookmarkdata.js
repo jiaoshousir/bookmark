@@ -133,6 +133,11 @@ var oData = [
         link: 'https://www.eolinker.com/'
       },
       {
+        name: '腾讯文档',
+        decription: '腾讯文档',
+        link: 'https://docs.qq.com/desktop'
+      },
+      {
         name: '石墨文档',
         decription: '全新一代云端 Office，面向未来的办公软件',
         link: 'https://shimo.im/'
@@ -336,6 +341,11 @@ var oData = [
         name: '轩枫阁',
         decription: '前端博客',
         link: 'http://www.xuanfengge.com/'
+      },
+      {
+        name: '技术胖',
+        decription: '技术胖',
+        link: 'https://jspang.com/'
       },
       {
         name: '高级前端资源汇总',
