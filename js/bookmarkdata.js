@@ -1,6 +1,6 @@
 var oData = [
   {
-    title: '常用工具',
+    title: '常用网站',
     data: [
       {
         name: '本地服务器地址',
@@ -73,11 +73,6 @@ var oData = [
         link: 'https://github.com/'
       },
       {
-        name: 'Lodash',
-        decription: '一个一致性、模块化、高性能的 JavaScript 实用工具库。',
-        link: 'https://www.lodashjs.com/'
-      },
-      {
         name: '360前端静态资源库',
         decription: '360前端静态资源库',
         link: 'https://cdn.baomitu.com/'
@@ -148,21 +143,6 @@ var oData = [
         link: 'https://www.kancloud.cn/'
       },
       {
-        name: 'web字体转换工具',
-        decription: 'web字体转换工具',
-        link: 'https://www.fontsquirrel.com/tools/webfont-generator'
-      },
-      {
-        name: 'Mock.js生成随机数据',
-        decription: 'Mock.js生成随机数据',
-        link: 'http://mockjs.com/'
-      },
-      {
-        name: 'Easy Mock',
-        decription: '一个极其简单、高效、可视化、并且能快速生成模拟数据的在线mock服务',
-        link: 'https://www.easy-mock.com/login'
-      },
-      {
         name: 'Markdown 在线编辑器',
         decription: 'Markdown 在线编辑器',
         link: 'http://www.mdeditor.com/'
@@ -181,11 +161,6 @@ var oData = [
         name: 'JsBin',
         decription: 'JsBin',
         link: 'https://jsbin.com/?html,css,output'
-      },
-      {
-        name: '印记中文',
-        decription: '汇集框架团队网址',
-        link: 'https://docschina.org/'
       },
       {
         name: 'Can I Use',
@@ -223,11 +198,6 @@ var oData = [
         link: 'http://www.useragentman.com/matrix/'
       },
       {
-        name: '醉牛前端',
-        decription: '汇集前端工具文档',
-        link: 'http://f2er.club/'
-      },
-      {
         name: '领扣题库',
         decription: '与各位程序员切磋答题',
         link: 'https://leetcode-cn.com/problemset/all/'
@@ -261,21 +231,11 @@ var oData = [
         name: '图灵机器人',
         decription: '图灵机器人',
         link: 'http://www.turingapi.com/'
-      },
-      {
-        name: 'Vue组件',
-        decription: 'Vue.js 相关的精选组件和实例网站',
-        link: 'https://vuejsexamples.com'
-      },
-      {
-        name: 'Vue-Layout',
-        decription: 'Vue可视化布局',
-        link: 'https://jaweii.github.io/Vue-Layout/dist/#/'
       }
     ]
   },
   {
-    title:'优秀网站',
+    title:'优秀资源',
     data:[
       {
         name: 'Stack Overflow',
@@ -291,11 +251,6 @@ var oData = [
         name: 'w3school',
         decription: 'W3C的标准网站',
         link: 'http://www.w3school.com.cn/'
-      },
-      {
-        name: 'QDfuns',
-        decription: '前端文章问答',
-        link: 'https://www.qdfuns.com/portal'
       },
       {
         name: 'HTML中文网',
@@ -348,9 +303,24 @@ var oData = [
         link: 'https://jspang.com/'
       },
       {
+        name: '醉牛前端',
+        decription: '汇集前端工具文档',
+        link: 'http://f2er.club/'
+      },
+      {
         name: '高级前端资源汇总',
         decription: '高级前端资源汇总',
         link: 'https://www.kancloud.cn/jikeytang/qq/81134'
+      },
+      {
+        name: '微信小程序开发资源汇总',
+        decription: '微信小程序开发资源汇总',
+        link: 'https://github.com/justjavac/awesome-wechat-weapp'
+      },
+      {
+        name: '印记中文',
+        decription: '汇集框架团队网址',
+        link: 'https://docschina.org/'
       }
     ]
   },
@@ -408,16 +378,6 @@ var oData = [
     title: '杂烩集合',
     data: [
       {
-        name: '免费的编程中文书籍索引',
-        decription: '免费的编程中文书籍索引',
-        link: 'https://github.com/justjavac/free-programming-books-zh_CN'
-      },
-      {
-        name: '前端技能汇总-朴灵',
-        decription: '前端技能汇总-朴灵',
-        link: 'http://html5ify.com/fks/'
-      },
-      {
         name: 'jQuery 2.0.3 源码分析系列',
         decription: 'jQuery 2.0.3 源码分析系列',
         link: 'https://www.cnblogs.com/aaronjs/p/3279314.html'
@@ -428,24 +388,9 @@ var oData = [
         link: 'https://www.cnblogs.com/TankXiao/archive/2012/02/13/2342672.html'
       },
       {
-        name: 'node入门中文版-精品',
-        decription: 'node入门中文版-精品',
-        link: 'https://www.nodebeginner.org/index-zh-cn.html'
-      },
-      {
-        name: '七天学会NodeJS',
-        decription: '七天学会NodeJS',
-        link: 'http://nqdeng.github.io/7-days-nodejs/'
-      },
-      {
-        name: 'Markdown - 语法说明',
-        decription: 'Markdown - 语法说明',
-        link: 'http://www.markdown.cn/'
-      },
-      {
         name: 'JavaScript 标准参考教程 - 阮一峰',
         decription: 'JavaScript 标准参考教程 - 阮一峰',
-        link: 'http://javascript.ruanyifeng.com/'
+        link: 'https://wangdoc.com/javascript/'
       },
       {
         name: 'Javascript设计模式系列-AlloyTeam',
@@ -461,31 +406,6 @@ var oData = [
         name: 'Bootstrap 编码规范',
         decription: 'Bootstrap 编码规范',
         link: 'https://codeguide.bootcss.com/'
-      },
-      {
-        name: 'Jade语法文档',
-        decription: 'Jade语法文档',
-        link: 'http://naltatis.github.io/jade-syntax-docs/'
-      },
-      {
-        name: '菜鸟教程',
-        decription: '各种教程集合',
-        link: 'https://www.runoob.com/'
-      },
-      {
-        name: 'Git分支学习',
-        decription: 'Git分支学习',
-        link: 'https://learngitbranching.js.org/'
-      },
-      {
-        name: 'LNMP教程',
-        decription: 'LNMP教程',
-        link: 'https://lnmp.org/'
-      },
-      {
-        name: 'LAMP教程',
-        decription: 'LAMP教程',
-        link: 'https://lamp.sh/'
       },
       {
         name: 'Docker概念解析',
@@ -533,16 +453,6 @@ var oData = [
         link: 'https://blog.csdn.net/u013084331/article/details/51150387'
       },
       {
-        name: '前端开发的45个经典技巧',
-        decription: '前端开发的45个经典技巧',
-        link: 'https://blog.csdn.net/u013084331/article/details/51037111'
-      },
-      {
-        name: '自学PHP有哪些书籍和教程值得推荐？',
-        decription: '自学PHP有哪些书籍和教程值得推荐？',
-        link: 'https://www.zhihu.com/question/20034403'
-      },
-      {
         name: 'HTTP协议及其POST与GET操作差异',
         decription: 'HTTP协议及其POST与GET操作差异',
         link: 'https://www.cnblogs.com/skynet/archive/2010/05/18/1738301.html'
@@ -558,49 +468,9 @@ var oData = [
         link: 'https://www.zhihu.com/question/20790576/answer/32602154'
       },
       {
-        name: 'Git使用及怎样写注释',
-        decription: 'Git使用及怎样写注释',
-        link: 'https://www.zybuluo.com/wh8766/note/1382672'
-      },
-      {
-        name: 'Commit message 和 Change log 编写指南',
-        decription: 'Commit message 和 Change log 编写指南',
-        link: 'http://www.ruanyifeng.com/blog/2016/01/commit_message_change_log.html'
-      },
-      {
-        name: '优雅的提交你的 Git Commit Message',
-        decription: '优雅的提交你的 Git Commit Message',
-        link: 'https://zhuanlan.zhihu.com/p/34223150'
-      },
-      {
         name: '打造简易的 NPM 私有仓库',
         decription: '打造简易的 NPM 私有仓库',
         link: 'https://www.jianshu.com/p/996f8a8d9e17'
-      },
-      {
-        name: 'Chrome 控制台不完全指南',
-        decription: 'Chrome 控制台不完全指南',
-        link: 'https://www.cnblogs.com/Wayou/p/chrome-console-tips-and-tricks.html'
-      },
-      {
-        name: 'SASS基础——十个常见的Mixins',
-        decription: 'SASS基础——十个常见的Mixins',
-        link: 'https://www.w3cplus.com/preprocessor/ten-best-common-mixins.html'
-      },
-      {
-        name: '使用Sass管理z-index更好的解决方案',
-        decription: '使用Sass管理z-index更好的解决方案',
-        link: 'https://www.w3cplus.com/preprocessor/better-solution-managing-z-index-sass.html'
-      },
-      {
-        name: '使用Sass来定义Keyframes',
-        decription: '使用Sass来定义Keyframes',
-        link: 'https://www.w3cplus.com/preprocessor/sass-animation-keyframes.html'
-      },
-      {
-        name: '【Sass初级】如何组织一个Sass项目',
-        decription: '【Sass初级】如何组织一个Sass项目',
-        link: 'https://www.w3cplus.com/preprocessor/beginner/how-to-structure-a-sass-project.html'
       },
       {
         name: 'Sass Guidelines中文版本之四：项目文件管理',
@@ -608,29 +478,9 @@ var oData = [
         link: 'https://www.w3cplus.com/preprocessor/sass-guidelin-part-4.html'
       },
       {
-        name: '流行框架的 Sass 体系结构解析',
-        decription: '流行框架的 Sass 体系结构解析',
-        link: 'https://www.w3cplus.com/preprocessor/look-different-sass-architectures.html'
-      },
-      {
-        name: '组织你的Sass文件',
-        decription: '组织你的Sass文件',
-        link: 'https://www.w3cplus.com/preprocessor/organize-your-sass-files.html'
-      },
-      {
         name: '管理Sass项目文件结构',
         decription: '管理Sass项目文件结构',
         link: 'https://www.w3cplus.com/preprocessor/architecture-sass-project.html'
-      },
-      {
-        name: '组织Sass文件',
-        decription: '组织Sass文件',
-        link: 'https://www.w3cplus.com/preprocessor/organize-that-sass.html'
-      },
-      {
-        name: 'Sass和Compass必备技能之Sass篇',
-        decription: 'Sass和Compass必备技能之Sass篇',
-        link: 'http://www.imooc.com/learn/364'
       },
       {
         name: '移动前端开发之viewport的深入理解',
@@ -646,11 +496,6 @@ var oData = [
         name: '微信小程序源码案例大全',
         decription: '微信小程序源码案例大全',
         link: 'https://www.cnblogs.com/shenzikun1314/p/7805168.html'
-      },
-      {
-        name: '当前GitHub上排名前十的热门Vue项目',
-        decription: '当前GitHub上排名前十的热门Vue项目',
-        link: 'https://my.oschina.net/liuyuantao/blog/1510726'
       }
     ]
   },
@@ -671,16 +516,6 @@ var oData = [
         name: 'webpack官方手册',
         decription: 'webpack官方手册',
         link: 'https://webpack.js.org/'
-      },
-      {
-        name: 'webpack 中文文档',
-        decription: 'webpack 中文文档',
-        link: 'https://www.html.cn/doc/webpack/'
-      },
-      {
-        name: '深入浅出Webpack',
-        decription: '',
-        link: 'http://webpack.wuhaolin.cn/'
       },
       {
         name: 'webpack多页应用架构系列',
@@ -753,6 +588,26 @@ var oData = [
         link: 'https://koajs.com/'
       },
       {
+        name: 'Git分支学习',
+        decription: 'Git分支学习',
+        link: 'https://learngitbranching.js.org/'
+      },
+      {
+        name: 'Jade语法文档',
+        decription: 'Jade语法文档',
+        link: 'http://naltatis.github.io/jade-syntax-docs/'
+      },
+      {
+        name: 'LNMP教程',
+        decription: 'LNMP教程',
+        link: 'https://lnmp.org/'
+      },
+      {
+        name: 'LAMP教程',
+        decription: 'LAMP教程',
+        link: 'https://lamp.sh/'
+      },
+      {
         name: 'HTTP状态码详解',
         decription: 'HTTP状态码详解',
         link: 'http://tool.oschina.net/commons?type=5'
@@ -763,15 +618,110 @@ var oData = [
         link: 'https://github.com/youyudehexie/node123'
       },
       {
-        name: 'JavaScript 参考手册',
-        decription: 'JavaScript 参考手册',
-        link: 'http://www.w3school.com.cn/jsref/index.asp'
+        name: '菜鸟教程',
+        decription: '各种教程集合',
+        link: 'https://www.runoob.com/'
+      },
+      {
+        name: '免费的编程中文书籍索引',
+        decription: '免费的编程中文书籍索引',
+        link: 'https://github.com/justjavac/free-programming-books-zh_CN'
       }
     ]
   },
   {
-    title: '插件/库',
+    title: '组件/插件',
     data: [
+      {
+        name: 'Vue组件',
+        decription: 'Vue.js 相关的精选组件和实例网站',
+        link: 'https://vuejsexamples.com'
+      },
+      {
+        name: 'Vue-Layout',
+        decription: 'Vue可视化布局',
+        link: 'https://jaweii.github.io/Vue-Layout/dist/#/'
+      },
+      {
+        name: 'Progressjs进度条 - JavaScript插件',
+        decription: '进度条插件',
+        link: 'http://usablica.github.io/progress.js/'
+      },
+      {
+        name: 'NProgressjs进度条 - JavaScript插件',
+        decription: '进度条插件',
+        link: 'https://github.com/rstacruz/nprogress'
+      },
+      {
+        name: 'fullPage全屏单页滚动 - JavaScript插件',
+        decription: '全屏单页滚动网站',
+        link: 'https://alvarotrigo.com/fullPage/'
+      },
+      {
+        name: 'skrollr视差滚动插件 - JavaScript插件',
+        decription: '视差滚动插件库',
+        link: 'http://prinzhorn.github.io/skrollr/'
+      },
+      {
+        name: 'parallax.js - jQuery插件',
+        decription: 'jquery视差插件',
+        link: 'http://matthew.wagerfield.com/parallax/'
+      },
+      {
+        name: 'introjs步骤引导插件 - JavaScript插件',
+        decription: 'introjs步骤引导插件',
+        link: 'https://introjs.com/'
+      },
+      {
+        name: 'Swiper - jQuery插件',
+        decription: '超强大的轮播插件',
+        link: 'https://www.swiper.com.cn/'
+      },
+      {
+        name: 'SuperSlide - jQuery插件',
+        decription: '',
+        link: 'http://www.superslide2.com/index.html'
+      },
+      {
+        name: 'Browsersync - npm包',
+        decription: '多设备实时刷新库',
+        link: 'https://browsersync.io/'
+      },
+      {
+        name: 'Socket.IO(封装WebSocket) - Node包',
+        decription: 'Socket.IO(封装WebSocket)',
+        link: 'https://socket.io/'
+      },
+      {
+        name: 'weiner - Node包',
+        decription: '多设备查看工具',
+        link: 'http://people.apache.org/~pmuellr/weinre/docs/latest/Home.html'
+      },
+      {
+        name: 'Aplayer',
+        decription: '一个功能强大的HTML5音乐播放器',
+        link: 'https://aplayer.js.org/#/'
+      },
+      {
+        name: 'Metingjs',
+        decription: '基于Aplayer插件封装好的插件，开箱即用',
+        link: 'https://github.com/metowolf/MetingJS'
+      }
+    ]
+  },
+  {
+    title: '框架/库',
+    data: [
+      {
+        name: 'Lodash',
+        decription: '一个一致性、模块化、高性能的 JavaScript 实用工具库。',
+        link: 'https://www.lodashjs.com/'
+      },
+      {
+        name: 'WordCloud 词云 - Python库',
+        decription: 'WordCloud 词云 - Python库',
+        link: 'https://pypi.org/project/wordcloud/'
+      },
       {
         name: 'Threejs - JavaScript库',
         decription: 'JavaScript 3D 库',
@@ -793,64 +743,19 @@ var oData = [
         link: 'https://cocos2d-x.org/'
       },
       {
+        name: 'Mock.js生成随机数据',
+        decription: 'Mock.js生成随机数据',
+        link: 'http://mockjs.com/'
+      },
+      {
+        name: 'Easy Mock',
+        decription: '一个极其简单、高效、可视化、并且能快速生成模拟数据的在线mock服务',
+        link: 'https://www.easy-mock.com/login'
+      },
+      {
         name: 'Bounce.js - JavaScript库',
         decription: 'Bounce.js关键帧动画工具',
         link: 'http://bouncejs.com/'
-      },
-      {
-        name: 'Swiper - jQuery插件',
-        decription: '超强大的轮播插件',
-        link: 'https://www.swiper.com.cn/'
-      },
-      {
-        name: 'Progressjs进度条 - JavaScript库',
-        decription: '进度条插件',
-        link: 'http://usablica.github.io/progress.js/'
-      },
-      {
-        name: 'NProgressjs进度条 - JavaScript库',
-        decription: '进度条插件',
-        link: 'https://github.com/rstacruz/nprogress'
-      },
-      {
-        name: 'fullPage全屏单页滚动 - JavaScript库',
-        decription: '全屏单页滚动网站',
-        link: 'https://alvarotrigo.com/fullPage/'
-      },
-      {
-        name: 'skrollr视差滚动插件 - JavaScript库',
-        decription: '视差滚动插件库',
-        link: 'http://prinzhorn.github.io/skrollr/'
-      },
-      {
-        name: 'parallax.js - jQuery插件',
-        decription: 'jquery视差插件',
-        link: 'http://matthew.wagerfield.com/parallax/'
-      },
-      {
-        name: 'introjs步骤引导插件 - JavaScript库',
-        decription: 'introjs步骤引导插件',
-        link: 'https://introjs.com/'
-      },
-      {
-        name: 'SuperSlide - jQuery插件',
-        decription: '',
-        link: 'http://www.superslide2.com/index.html'
-      },
-      {
-        name: 'Browsersync - npm包',
-        decription: '多设备实时刷新库',
-        link: 'https://browsersync.io/'
-      },
-      {
-        name: 'Socket.IO(封装WebSocket) - Node包',
-        decription: 'Socket.IO(封装WebSocket)',
-        link: 'https://socket.io/'
-      },
-      {
-        name: 'weiner - Node包',
-        decription: '多设备查看工具',
-        link: 'http://people.apache.org/~pmuellr/weinre/docs/latest/Home.html'
       },
       {
         name: 'animate.css - CSS3动画库',
@@ -878,21 +783,6 @@ var oData = [
         link: 'https://github.com/soulwire/sketch.js/'
       },
       {
-        name: 'Aplayer',
-        decription: '一个功能强大的HTML5音乐播放器',
-        link: 'https://aplayer.js.org/#/'
-      },
-      {
-        name: 'Metingjs',
-        decription: '基于Aplayer插件封装好的插件，开箱即用',
-        link: 'https://github.com/metowolf/MetingJS'
-      },
-      {
-        name: 'Metingjs',
-        decription: '基于Aplayer插件封装好的插件，开箱即用',
-        link: 'https://github.com/metowolf/MetingJS'
-      },
-      {
         name: 'kbone',
         decription: 'kbone 是一个致力于微信小程序和 Web 端同构的解决方案。',
         link: 'https://developers.weixin.qq.com/miniprogram/dev/extended/kbone/'
@@ -906,6 +796,11 @@ var oData = [
         name: 'mpvue',
         decription: '一个使用 Vue.js 开发小程序的前端框架',
         link: 'http://mpvue.com/'
+      },
+      {
+        name: 'taro',
+        decription: '多端统一开发解决方案',
+        link: 'https://taro.aotu.io/'
       }
     ]
   },
@@ -1006,6 +901,11 @@ var oData = [
         name: 'craft.js',
         decription: '一个用于构建可扩展的拖放页面编辑器的React框架',
         link: 'https://github.com/prevwong/craft.js'
+      },
+      {
+        name: '模板之家',
+        decription: '模板之家',
+        link: 'http://www.cssmoban.com/'
       },
       {
         name: '织梦猫',
