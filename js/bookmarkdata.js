@@ -118,6 +118,11 @@ var oData = [
         link: 'https://mock.yonyoucloud.com/'
       },
       {
+        name: '接口测试网站',
+        decription: '接口测试网站',
+        link: 'http://httpbin.org/'
+      },
+      {
         name: '开源API整理',
         decription: '开源API整理',
         link: 'https://segmentfault.com/a/1190000019181212'
