@@ -955,3 +955,5 @@ var oData = [
     ]
   }
 ];
+
+export default oData;

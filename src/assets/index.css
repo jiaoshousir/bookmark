@@ -1,0 +1,80 @@
+@charset "utf-8";
+html,
+body,
+div,
+span,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+a,
+em,
+img,
+strong,
+dl,
+dt,
+dd,
+ol,
+ul,
+li {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  outline: 0;
+  vertical-align: baseline;
+}
+:focus {
+  outline: 0;
+}
+body {
+  font-family: Tahoma, arial, "Hiragino Sans GB", "Microsoft Yahei",
+    "\5b8b\4f53", sans-serif, Arial, Helvetica, "STHeiti";
+  font-size: 16px;
+  color: #000;
+  transition: 0.5s all ease;
+  background: #48b071;
+}
+img {
+  display: block;
+}
+ol,
+ul {
+  list-style: none;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-size: 14px;
+  font-weight: normal;
+}
+a {
+  color: #000;
+  text-decoration: none;
+}
+a:hover {
+  color: #000;
+  text-decoration: none;
+}
+
+.clear {
+  zoom: 1;
+}
+.clear:after {
+  content: "";
+  display: block;
+  clear: both;
+}
+.overflow {
+  overflow: hidden;
+}
+.ellipsisText {
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap;
+}
