@@ -638,17 +638,17 @@ var oData = [
     title: '组件/插件',
     data: [
       {
-        name: ' Ant Design  - 适用多种框架UI组件库',
+        name: ' Ant Design  - 适用多种框架UI组件库（PC端 React框架适配最佳）',
         decription: '企业级产品设计体系，创造高效愉悦的工作体验',
         link: 'https://ant.design/index-cn'
       },
       {
-        name: 'element - Vue 组件库',
-        decription: '轻量、可靠的移动端 Vue 组件库',
+        name: 'element - Vue PC端组件库',
+        decription: '基于 Vue 2.0 的桌面端组件库',
         link: 'https://element.eleme.io/'
       },
       {
-        name: 'Vant - Vue 组件库',
+        name: 'Vant - Vue 移动端组件库',
         decription: '轻量、可靠的移动端 Vue 组件库',
         link: 'https://youzan.github.io/vant/#/zh-CN/'
       },
