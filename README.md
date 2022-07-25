@@ -19,10 +19,10 @@ Vue 2.x + element-ui
 
 
 #### 新增书签说明
-`https://jiaoshousir.github.io/mstatic/public/bookmark/js/bookmarkdata.js`是存放书签数据的文件，当前项目只是样式结构，如需添加书签数据只需要修改`mstatic`项目的数据文件即可
+`https://jiaoshousir.github.io/staticgithub/src/public/bookmark/js/bookmarkdata.js`是存放书签数据的文件，当前项目只是样式结构，如需添加书签数据只需要修改`mstatic`项目的数据文件即可
 
 
 
 #### 仓库地址
 
-1.  项目仓库地址[bookmark](https://github.com/jiaoshou/bookmark)
+1.  项目仓库地址[bookmark](https://github.com/jiaoshousir/bookmark)
