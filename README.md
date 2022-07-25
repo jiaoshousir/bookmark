@@ -18,5 +18,11 @@ Vue 2.x + element-ui
 2.  打包文件：`npm run build`
 
 
-#### 修改说明
-每次新增书签数据之后记得执行打包文件命令，再提交项目，否则内容不会改变
+#### 新增书签说明
+`https://jiaoshousir.github.io/mstatic/public/bookmark/js/bookmarkdata.js`是存放书签数据的文件，当前项目只是样式结构，如需添加书签数据只需要修改`mstatic`项目的数据文件即可
+
+
+
+#### 仓库地址
+
+1.  项目仓库地址[bookmark](https://github.com/jiaoshou/bookmark)

@@ -19,10 +19,9 @@
 </template>
 
 <script>
-// import HelloWorld from './components/HelloWorld.vue'
 import Header from "./components/Header";
 import Main from "./components/Main";
-import datas from "./assets/bookmarkdata";
+// import datas from "./assets/bookmarkdata";
 export default {
   name: 'App',
   components: {
@@ -32,7 +31,9 @@ export default {
   },
   data(){
     return {
-      data: datas
+      /*eslint-disable*/
+      data: oData
+      /* eslint-enable */
     }
   },
   methods: {

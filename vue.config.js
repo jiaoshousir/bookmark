@@ -2,7 +2,7 @@ module.exports = {
   // 基本路径
   publicPath: './',
   // 输出文件目录
-  outputDir: 'docs',
+  // outputDir: 'docs',
   chainWebpack: config => {
     config
       .plugin('html')

@@ -7,7 +7,7 @@
       <div class="list-container">
         <ul class="list clear">
           <li v-for="item in items.data" :key="item.id" class="item">
-            <a target="_blank" :href="item.link" :title="item.decription" >{{ item.name }}</a>
+            <a target="_blank" rel="nofollow" :href="item.link" :title="item.decription" >{{ item.name }}</a>
           </li>
         </ul>
       </div>
